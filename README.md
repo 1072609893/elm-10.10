@@ -2,7 +2,7 @@
 process.env.HOST = 'http://sign.llol.me:9020'
 ## 拉库即用
 ```
-ql repo https://github.com/pingxian/elm.git "^ele" "" "USER|common|ql|sendNotify1|ele_coupon_rely"
+ql repo https://github.com/1072609893/elm-10.10.git "^ele" "" "USER|common|ql|sendNotify1|ele_coupon_rely"
 ```
 环境变量：ms 设置多少秒提前抢券（单位毫秒），默认 1000 毫秒 export ms="1000" <br />
 环境变量：delayTime 请求间隔（单位毫秒）默认 300 毫秒 export delayTime="300"  <br />
